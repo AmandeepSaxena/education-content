@@ -105,9 +105,9 @@ By the end of this session, you'll be able to:
 - Custom operators
 
 **Resources:**
-- CNCF Learning Paths
-- Kubernetes Documentation
-- Cloud Provider Tutorials
+- [CNCF Learning Paths](https://www.cncf.io/training/)
+- [Kubernetes Documentation](https://kubernetes.io/)
+- [Cloud Provider Tutorials](https://aws.amazon.com/eks/)
 
 ---
 
