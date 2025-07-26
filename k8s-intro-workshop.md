@@ -26,7 +26,7 @@
 
 ### **Phase 4: Production Ready (8 min)**
 - Implement health checks and self-healing
-- Set up ingress for external access
+- Set up service for external access
 - Deploy with zero downtime
 
 ### **Phase 5: Victory Lap (2 min)**
